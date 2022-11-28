@@ -19,7 +19,7 @@
 }
 
 .page--img {
-    background-image: url(/Images/hero.png);
+    background-image: url(Images/hero.png);
     background-repeat: no-repeat;
     background-size:contain;
     background-color: #FFFFFF;
